@@ -16,3 +16,11 @@ To Run
 * Execute kafka_producer.py to create messages
 * Execute kafka_consumer.py to read messages and insert them into Postgresql
 * The examples require certificates to connect. Please request for them  from me.
+
+Kafka topic :
+exercise_topic
+
+Postgresql db:
+- exercise_db
+Postgresql table:
+- exercise_table
