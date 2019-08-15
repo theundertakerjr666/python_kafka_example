@@ -24,3 +24,6 @@ Postgresql db:
 - exercise_db
 Postgresql table:
 - exercise_table
+
+
+![alt text](https://github.com/theundertakerjr666/python_kafka_example/blob/master/Screenshot%20from%202019-08-15%2020-49-57.png "Result")
